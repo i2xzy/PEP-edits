@@ -5,6 +5,7 @@
 - Started to rename [UNNAMED] clades
 - restructured basal clades relationships
 - moved Hongu genus closer to Rhizodontida but status is unclear
+- moved Rhizodontidae into Rhizodontida
 
 Sources
 - https://www.nature.com/articles/ncomms2170
