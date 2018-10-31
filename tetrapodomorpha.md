@@ -8,7 +8,7 @@
 - moved Rhizodontidae into Rhizodontida
 
 Sources
-- [The earliest known stem-tetrapod from the Lower Devonian of China](https://www.nature.com/articles/ncomms2170)
+- [Lu, J. et al. The earliest known stem-tetrapod from the Lower Devonian of China. Nat. Commun. 3:1160 doi: 10.1038/ncomms2170 (2012).](https://www.nature.com/articles/ncomms2170)
 - [A Devonian tetrapod-like fish reveals substantial parallelism in stem tetrapod evolution](https://www.nature.com/articles/s41559-017-0293-5)
 
 ### 31/10/2018
