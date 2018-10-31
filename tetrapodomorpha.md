@@ -14,6 +14,7 @@ Sources
 ### 31/10/2018
 
 - restructured Canowindridae family relationships
+- added species names for above family
 
 Sources
 - [A Marine Stem-Tetrapod from the Devonian of Western North America](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033683)
