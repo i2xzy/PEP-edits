@@ -9,4 +9,12 @@
 
 Sources
 - [The earliest known stem-tetrapod from the Lower Devonian of China](https://www.nature.com/articles/ncomms2170)
-- https://www.nature.com/articles/s41559-017-0293-5
+- [A Devonian tetrapod-like fish reveals substantial parallelism in stem tetrapod evolution](https://www.nature.com/articles/s41559-017-0293-5)
+
+### 31/10/2018
+
+- restructured Canowindridae family relationships
+
+Sources
+- [A Marine Stem-Tetrapod from the Devonian of Western North America](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033683)
+
